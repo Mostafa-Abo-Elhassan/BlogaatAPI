@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogaatAPI", "BlogaatAPI\BlogaatAPI.csproj", "{CD906843-25A8-45CC-B2CB-7CF7493C4570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD906843-25A8-45CC-B2CB-7CF7493C4570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD906843-25A8-45CC-B2CB-7CF7493C4570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD906843-25A8-45CC-B2CB-7CF7493C4570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD906843-25A8-45CC-B2CB-7CF7493C4570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AC40067-00BE-4EEE-82F0-8BE9E6EAEB0B}
+	EndGlobalSection
+EndGlobal
